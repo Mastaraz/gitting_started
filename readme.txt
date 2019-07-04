@@ -10,3 +10,6 @@ blah blah blah
 ---
 
 changes beyond the initial commit
+
+This is anoterh adjusmnet to make sure changes are live through vs code
+
